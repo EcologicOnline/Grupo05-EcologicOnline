@@ -4,7 +4,7 @@
     font-size: 2rem;
     margin: 2 auto;
     font-family: 'Delicious Handrawn', cursive;
-    color: #2f2f2f;
+    color: #f2f2f2;
   }
   
   .title {
@@ -78,6 +78,14 @@
     background-color: #c8e6c9;
     font-size: 1.5rem;
     color: #2e7d32;
+
+  .presentación {
+      clear: both;
+      text-align: center;
+      padding: 2rem;
+      background-color: #c8e6c9 ;
+      font-size: 1.5rem;
+      color: #7b41eb
   }
   footer {
     text-align: center;
