@@ -77,7 +77,7 @@
     padding: 2rem;
     background-color: #c8e6c9;
     font-size: 1.5rem;
-    color: #2e7d32;
+    color: #2e7d32;}
 
   .presentación {
       clear: both;
@@ -88,12 +88,43 @@
       color: #7b41eb
   }
   footer {
-    text-align: center;
+text-align: center;
     font-family: sans-serif ;
     font-size: 1rem;
   }
   body { 
     background-color: #577b41eb;
   }
+  .contenedor-padre {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
   
+  .contenedor-hijo {
+    flex-basis: calc(30% - 5px); /* El 10px es para tener un espacio entre los contenedores */
+    margin-bottom: 20px;
+    border: 1px solid #0e0d0d;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: #0e0d0d;
+    text-align: center;
+  }
+  
+  .def-desastres-naturales{
+    position: relative;
+    display:inline-block;
+    border: 1px;
+    align-content: flex-start;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 1.5rem;
+    color: #2e7d32;
 
+  }
+  .titulo-desastres {
+    text-align: center;
+    font-family: 'Delicious Handrawn', cursive;
+    color: #0e0d0d;
+
+  }
