@@ -9,13 +9,9 @@
 # Referencias: https://www.ecologiaverde.com/ ;https://www.ecoportal.net/;https://www.reciclame.info/;https://www.laesenciadelreciclaje.com/;https://smileandlearn.com/app/reciclaje/
 
 # El sitio va a tener varias páginas , no va a ser OnePage.
-
 # Logo: definido
-
 # Paleta de colores colocada dentro del wireframe
-
 # Tipografias: 2 seleccionadas desde google Font.
-
 # Se agrega un Imframe de youtube, en pagina de reciclaje
-
-# Se agrega Menú en Nav adaptable para pantalla pequeña
+# Se agrega Menú en Nav adaptable para pantalla pequeña~
+# Se sugiere cambio de tipogafia,  tengo el link de importacion . FREDERIC THE GREAT, DELICIUS HANDRAW Y COMME. para textos parrafo. VER
