@@ -15,3 +15,7 @@
 # Paleta de colores colocada dentro del wireframe
 
 # Tipografias: 2 seleccionadas desde google Font.
+
+# Se agrega un Imframe de youtube, en pagina de reciclaje
+
+# Se agrega Menú en Nav adaptable para pantalla pequeña
