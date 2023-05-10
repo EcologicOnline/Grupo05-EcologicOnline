@@ -170,14 +170,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* CSS Resets */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  /* border: 2px solid red; */
-}
-
 ul {
   list-style-type: none;
 }
@@ -212,7 +204,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 1.5rem 3.5rem;
-  background-color: var(--bg-color);
+  background-color:#c8e6c9;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
 
