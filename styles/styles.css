@@ -128,26 +128,12 @@ text-align: center;
     color: #0e0d0d;
   }
 
-.def-reciclaje {
-  text-align: center;
-  font-family: 'Delicious Handrawn', cursive;
-  color: #0e0d0d;
-}
 .pie {
   text-align: center;
   color: #0e0d0d;
 }
-.def-naturaleza {
-  text-align: center;
-  color: #0e0d0d;
-}
-.def-recursosrenov {
-  text-align: center;
-  font-family: 'Delicious Handrawn', cursive;
-  color: #0e0d0d;
 
-}
-/* copiado identido de pagina que recomendo german*//
+/* copiado identido de pagina que recomendo german*/
 root {
   --font-family: "Roboto", sans-serf;
   --normal-font: 400;
@@ -163,8 +149,6 @@ root {
   --line-height: 1.7rem;
   --transition: 0.3s;
 }
-/* Variables end */
-
 html {
   scroll-behavior: smooth;
 }
@@ -173,7 +157,7 @@ ul {
   list-style-type: none;
 }
 
-a {
+/a {
 
   color: var(--primary-color);
 }
@@ -187,12 +171,9 @@ body {
 }
 
 section {
-  /* max-width: 1100px;
-  margin: auto; */
+  * max-width: 1100px;
+  margin: auto; 
 }
-
-/* CSS Resets end */
-
 /* Navbar */
 nav {
   position: sticky;
@@ -238,3 +219,14 @@ nav ul li {
   display: none;
 
 }
+.ParrafoInicio {
+  color:#7b41eb;
+  font-size: 10px;
+}
+.recursos1 p{
+  font-size: 1px;
+  background-color:#8b8eaf
+  align-items: center;
+  font-family: 'Comme', sans-serif;
+  scroll-behavior: smooth;
+ }
