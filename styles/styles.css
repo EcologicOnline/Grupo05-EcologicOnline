@@ -60,9 +60,8 @@
   }
   
   .media {
-    float: left;
-    width: 60%;
-    padding: 2rem;
+    text-align: center;
+    display: flex;
   }
   
   .media img {
@@ -105,7 +104,7 @@ text-align: center;
   .contenedor-hijo {
     flex-basis: calc(30% - 5px); /* El 10px es para tener un espacio entre los contenedores */
     margin-bottom: 20px;
-    border: 1px solid #0e0d0d;
+    border: 3px solid #0e0d0d;
     padding: 20px;
     font-family:'Times New Roman', Times, serif;
     font-size: 1rem;
@@ -175,7 +174,7 @@ ul {
 }
 
 a {
-  text-decoration: none;
+
   color: var(--primary-color);
 }
 
