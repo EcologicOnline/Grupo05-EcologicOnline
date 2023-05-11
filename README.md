@@ -15,4 +15,5 @@
 # Se agrega un Imframe de youtube, en pagina de reciclaje
 # Se agrega Menú en Nav adaptable para pantalla pequeña~
 # Se sugiere cambio de tipogafia,  tengo el link de importacion . FREDERIC THE GREAT, DELICIUS HANDRAW Y COMME. para textos parrafo. VER
-se trabajo en pagina conciencia ambiental
+#se trabajo en pagina conciencia ambiental
+#coloque el menu nuevo en todas las paginas
