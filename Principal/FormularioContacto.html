@@ -45,7 +45,7 @@
     </div>
   </nAv>
     </header>
- 
+
     <h3>Formas de Contacto por Consultas o comentarios</h3>
     <p>Podes escribirnos por e mail a: <a href="mailito:ecologiconline5@gmail.com?subject=ContactoEcologicOnline5" >ecologiconline5@gmail.com </a></li> </p>
     <fieldset> 
@@ -55,14 +55,12 @@
         method="POST" 
         target="_top"
         >
-            <label for="firstname" requiered>Nombre</label>
-            <input size="30" type="text" name="firstname" id="firstname"><br>
-            <label for="email" requiered >E mail</label>
-            <input size="30" type="email" name="Correo" id="email"><br>
-            <input type="Checkbox" name="Opcion1" value="1"> Comentario
-            <input type="Checkbox" name="Opcion2" value="2"> Dudas
-            <input type="Checkbox" name="Opcion3" value="3"> Sugerencias<br>
-            <textarea name="Comentarios" rows="10" cols="100" placeholder="Escribí aquí lo que quieras comentar"></textarea><br>
+            <label for="txtNombre" requiered>Nombre</label>
+            <input size="30" type="text" name="txtNombre" id="txtNombre"><br>
+            <label for="txtEmail" requiered >E mail</label>
+            <input size="30" type="text" name="txtEmail" id="txtEmail"><br>
+            <label for="txtComentarios" requiered>Comentario</label><br>
+            <textarea name="Comentarios" id="txtComentarios" rows="10" cols="100" placeholder="Ingrese Aquí Su Comentario"></textarea><br><br>
             <input type="submit" value="Enviar Datos">
             <input type="reset" value="Borrar Datos">
           </form>
@@ -74,8 +72,6 @@
       <br>
       <p class="pie"> <strong> Derechos Reservados &copy; 2023</strong></p>
     </footer>
-  <script>
-    
-  </script>
+  <script src="../js/contacto.js"></script>
 </body>
 </html>
