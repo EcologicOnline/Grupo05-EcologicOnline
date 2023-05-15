@@ -4,7 +4,7 @@
 
 # Orientado a público general de todas las edades.
 
-# La página busca conscientizar con la importancia de la participación activa de los individuos en el cuidado del medio ambiente.
+# La página busca concientizar con la importancia de la participación activa de los individuos en el cuidado del medio ambiente.
 
 # Referencias: https://www.ecologiaverde.com/ ;https://www.ecoportal.net/;https://www.reciclame.info/;https://www.laesenciadelreciclaje.com/;https://smileandlearn.com/app/reciclaje/
 
@@ -13,7 +13,7 @@
 # Paleta de colores colocada dentro del wireframe
 # Tipografias: 2 seleccionadas desde google Font.
 # Se agrega un Imframe de youtube, en pagina de reciclaje
-# Se agrega Menú en Nav adaptable para pantalla pequeña~
+# Se agrega Menú en Nav adaptable para pantalla pequeña
 # Se sugiere cambio de tipogafia,  tengo el link de importacion . FREDERIC THE GREAT, DELICIUS HANDRAW Y COMME. para textos parrafo. VER
-#se trabajo en pagina conciencia ambiental
-#coloque el menu nuevo en todas las paginas
+# se trabajo en pagina conciencia ambiental
+# coloque el menu nuevo en todas las paginas
