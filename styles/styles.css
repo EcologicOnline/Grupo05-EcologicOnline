@@ -206,7 +206,11 @@ nav {
 h2 {
   font-family: 'Delicious Handrawn', cursive;
 }
-
+.carousel-inner{
+  text-align: center;
+  margin-left: 8rem;
+  margin-right: 5rem;
+}
 
 /**pendientes de recursos renov**/
 /**inicioreciclaje**/
