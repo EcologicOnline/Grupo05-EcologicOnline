@@ -173,7 +173,7 @@ body {
 }
 
 section {
-  * max-width: 1100px;
+  max-width: 1100px;
   margin: auto; 
 }
 
@@ -222,17 +222,14 @@ nav ul li {
   color:#2f2f2f 
   
 }
-/**  pendiente adaptacion menu a pantalla chica
-.burger-menu {
-  color: var(--primary-color);
-  font-size: 2rem;
-  border: 0;
-  background-color: transparent;
-  cursor: pointer;
-  display: none;
-}**/
- /**pendientes de recursos renov**/
- /**inicioreciclaje**/
+
+.YouTube {
+  text-align: center;
+}
+
+
+/**pendientes de recursos renov**/
+/**inicioreciclaje**/
 /** continiciorenov **/
 /** contenedoriniciorenov*^*/
 /**parrafoinicio**/
