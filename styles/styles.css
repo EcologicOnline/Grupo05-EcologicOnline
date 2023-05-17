@@ -213,15 +213,4 @@ h2 {
   align-items:center;
 
 
-  }
-  /** asi se confirma la adaptabilidad de pantalla
-  @media only screen and (max-widht:600px) {
-
-  }
-  @media only screen and (max-widht:768px) {
-    
-  }
-  @media only screen and (max-widht:1200px) {
-    
-  }
-  **/
+}
