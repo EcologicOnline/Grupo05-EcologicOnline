@@ -3,5 +3,6 @@
 # En este momento contamos con la estructura de la página, que sera de 5 ó mas, no optando por la versión "one page", falta definir donde colocaremos el formulario de contacto, contamos con el gran parte de las imagenes a incluir , de alta calidad, tipografías a utilizarse. Y debemos estructurar cada página con las herramientas se proponen en el Tp final.
 # Contamos con la pagina inicial, y 5 páginas para secciones. Por el momento, optamos por la integración de 1 hoja de estilos que aplica al  sitio íntegramente.
 # Con la ayuda de el la app web Trello, podemos organizarnos mejor.
-# Debido a varios percances en el equipo, dificultad que estuvo desde  inicio, desarrollamos una Sitio Web, con 5 páginas , de las cuales, 1 tiene un formulario en javascript.
-# Intentamos utilizar el trello, que es muy util, pero finalmente, por timpo, quedo abandonado, solo se hizo lo urgente.
+# Debido a varios percances en el equipo, dificultad que estuvo desde  inicio, desarrollamos una Sitio Web, con 5 páginas , de las cuales, 1 tiene un formulario en javascript, sin hacer reuniones.
+# Intentamos utilizar el trello, que es muy util, pero finalmente, por tiempo, quedo abandonado, solo se hizo lo urgente. Y se utilizaron las listas , eso nos ayudo bastante.
+# La mayor complicación la tuvimos al querer aprender a usar git y github.
