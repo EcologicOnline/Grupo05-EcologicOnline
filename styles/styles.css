@@ -67,6 +67,7 @@ url('https://fonts.googleapis.com/css2?family=Comme:wght@100;200;300;400;500;600
     height: auto;
     display: block;
     margin: 0 auto;
+    border-radius: 20px;
   }
   
   .media-img3 {
@@ -142,6 +143,7 @@ url('https://fonts.googleapis.com/css2?family=Comme:wght@100;200;300;400;500;600
     font-family: 'Delicious Handrawn', cursive;
     font-size: 1.5rem;
     color: #2e7d32;
+    padding: 0 20px;
   }
 
 .titulo-desastres {
@@ -155,7 +157,6 @@ url('https://fonts.googleapis.com/css2?family=Comme:wght@100;200;300;400;500;600
 .pie {
   text-align: center;
   color: #0e0d0d;
-  background-color: #c8e6c9;
   }
 
 
@@ -213,4 +214,8 @@ h2 {
   align-items:center;
 
 
+}
+
+.naturaleza {
+  padding: 0 20px;
 }
