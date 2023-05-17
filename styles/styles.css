@@ -74,26 +74,27 @@ url('https://fonts.googleapis.com/css2?family=Comme:wght@100;200;300;400;500;600
     height: auto;
     display: block;
     margin: 0 auto;
+    border-radius: 20px;
     }
   
     .media-secund {
       max-width: 20%;
       height: auto;
       display: block;
-      margin: 0 auto;
-      }
+      border-radius: 95%;
+      align-self: baseline;
     
+        } 
+      
   .frase {
     clear: both;
     text-align: center;
     padding: 2rem;
-    background-color: #c8e6c9;
+    background-color:#c8e6c9;
     font-size: 1.5rem;
     color: #2e7d32;
     font-family: 'Delicious Handrawn', cursive;
   }
-
-
 
   .presentación {
       clear: both;
@@ -147,43 +148,16 @@ url('https://fonts.googleapis.com/css2?family=Comme:wght@100;200;300;400;500;600
     text-align: center;
     font-family: 'Delicious Handrawn', cursive;
     color: #0e0d0d;
-    font-family: 'Delicious Handrawn', cursive;
-
-
+    
   }
 
 
 .pie {
   text-align: center;
   color: #0e0d0d;
+  background-color: #c8e6c9;
   }
 
-html {
-  scroll-behavior: smooth;
-}
-
-
-ul {
-  list-style-type: none;
-}
-
-
-a {
-  color: var(--primary-color);
-}
-
-a:hover {
-  color: var(--secondary-color);
-}
-
-body {
-font-family: var(--font-family);
-}
-
-section {
-max-width: 1100px;
-margin:auto; 
-}
 
 nav {
   position: sticky;
@@ -198,7 +172,6 @@ nav {
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
     }
 
-
 .YouTube {
   text-align: center;
 }
@@ -212,18 +185,43 @@ h2 {
   margin-right: 5rem;
 }
 
-/**pendientes de recursos renov**/
-/**inicioreciclaje**/
-/** continiciorenov **/
-/** contenedoriniciorenov*^*/
-/**parrafoinicio**/
-/**cuadropoliticas en grid o en flex **/
-/**econ1**/
-/**econ2**/
-/**resultadopolit**/
-/**recursosnat**/
-/**Contenedor-recursos**/
-/**RecursosDirectos*/
-/**RecursosIndrectos**/
-/**Tiposrecursosrenov**/
-/**recrenov**/
+.def-generalb{
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  font-family: 'Comme', sans-serif;
+  font-size:medium;
+  margin: 30px 30px 0px 30px;
+  text-justify: inter-word;
+}
+.contenedor-flex{
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  margin: 0px 20px 0px 20px;
+  font-family: 'Comme', sans-serif;
+  font-size: 20px;
+
+}
+.contenedor-flex-img{
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px 20px 0px 20px;
+  align-items:center;
+
+
+  }
+  /** asi se confirma la adaptabilidad de pantalla
+  @media only screen and (max-widht:600px) {
+
+  }
+  @media only screen and (max-widht:768px) {
+    
+  }
+  @media only screen and (max-widht:1200px) {
+    
+  }
+  **/
