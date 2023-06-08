@@ -219,3 +219,11 @@ h2 {
 .naturaleza {
   padding: 0 20px;
 }
+.zoom {
+  transition: transform .2s; 
+}
+
+.zoom:hover {
+  transform: scale(1.5); 
+}
+
